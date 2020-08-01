@@ -17,3 +17,6 @@ The second model is trained using the goodwords.txt which contains all normally 
 <br>
 <br>
 Once both the models are trained, run the "Predator Bot.py" file. This will extract the chats and and save it in chats.json file. This will also do the predictions on the chats.json file
+<h1> Model Performance</h1>
+<h2> Performance of logistic regression, SVM and neural network models on sentences</h2>
+<img src="https://github.com/rajatkeshri/hackthehourglass_sexual_predator/blob/master/Capture.JPG"/>
