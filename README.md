@@ -1,7 +1,12 @@
 # hackthehourglass_sexual_predator
 
-The dataset requires author persmission. Please register for permission in this link. I have added the dataset temporarily, and will remove it from the github repo after the hack.
+The dataset requires author persmission. Please register for permission in this link. I have added the dataset temporarily in the drive link, and will remove it from the github repo after the hack.
 https://zenodo.org/record/3713280#.XyVATSgzbIU
+<br>
+<br>
+Drive link : https://drive.google.com/drive/folders/1hh3aWjBUlIyGH9Z_dbUyodAdTIE2HM3n?usp=sharing
+<br>
+<br>
 
 <h1> Usage </h1>
 After getting the dataset, extract the xml file and put it in a folder named test. Run the jupyter notebook "Data Preprocessing.ipynb" to genereate a csv file
