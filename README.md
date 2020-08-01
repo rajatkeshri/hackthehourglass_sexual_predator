@@ -1,6 +1,6 @@
 # hackthehourglass_sexual_predator
 
-The dataset requires author persmission. Please register for permission in this link.
+The dataset requires author persmission. Please register for permission in this link. I have added the dataset temporarily, and will remove it from the github repo after the hack.
 https://zenodo.org/record/3713280#.XyVATSgzbIU
 
 <h1> Usage </h1>
